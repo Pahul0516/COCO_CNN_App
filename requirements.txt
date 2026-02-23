@@ -1,0 +1,6 @@
+torch
+torchvision
+pika
+pillow
+numpy
+transformers
